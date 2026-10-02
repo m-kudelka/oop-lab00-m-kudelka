@@ -1,21 +1,19 @@
 # Moje wykonanie Lab00
 
-- Login GitHub / pseudonim: ...
-- System i terminal (np. Windows + WSL Ubuntu): ...
-- Edytor / IDE: ...
-- Wersja Git: ...
-- Wersja kompilatora C++: ...
-- Wersje java i javac: ...
+- Login GitHub / pseudonim: m-kudelka
+- System i terminal (np. Windows + WSL Ubuntu): macOS
+- Edytor / IDE: Visual Studio Code
+- Wersja Git: git version 2.50.1 (Apple Git-155)
+- Wersja kompilatora C++: Apple clang version 17.0.0 (clang-1700.6.4.2)
+- Wersje java i javac: openjdk version "17.0.20.1" / javac 17.0.20.1
 - Link do pierwszego PR (uzupełnij w zadaniu 5): ...
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
-...
+```Hello from C++! m-kudelka
 ```
 Wynik programu Java:
-```text
-...
+```Hello from Java! m-kudelka
 ```
 
 ## Błąd i poprawka (zadanie 5)
