@@ -19,13 +19,13 @@ Wynik programu Java:
 ## Błąd i poprawka (zadanie 5)
 - Krótki fragment komunikatu błędu i numer linii: cpp/main.cpp:5:53: error: expected ';' after expression
 - Przyczyna oraz sposób naprawy: brak srednika na koncu linii, dodanie srednika na koncu linii
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Commit z błędem (SHA lub link): 9a2a484
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
-1. Co różni commit od push? ...
-2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+1. Co różni commit od push? commit zpasiuje zmiany lokalnie w reppzytorium, a push wysyla te zmiany do zdalnego repozytorium
+2. Dlaczego po scaleniu PR wykonuję lokalnie pull? Żeby pobrać do lokalnego repozytorium zmiany, które zostały dodane na GitHubie podczas scalania PR.
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Zielony CI potwierdza, ze kod przeszedł skonfigurowane automatyczne test, np.kompilacje. Nie potwierdza,ze program jest w 100% poprawny ani ze nie zawiera błędów kogicznych.
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak / opis problemu i sposób rozwiązania: brak
