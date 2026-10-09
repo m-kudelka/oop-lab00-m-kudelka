@@ -30,4 +30,4 @@ Hello from Java! m-kudelka
 3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Zielony CI potwierdza, ze kod przeszedł skonfigurowane automatyczne test, np.kompilacje. Nie potwierdza,ze program jest w 100% poprawny ani ze nie zawiera błędów kogicznych.
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: brak
+https://github.com/m-kudelka/oop-lab00-m-kudelka
